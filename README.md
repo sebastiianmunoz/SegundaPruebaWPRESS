@@ -18,7 +18,7 @@ CLAVE : 1234
 
  
 
-![PruebaWordpress](imagenes/1.jpg)
+![PruebaWordpress](imagenes/1.png)
 
 ![ PruebaWordpress](imagenes/2.jpg)
 

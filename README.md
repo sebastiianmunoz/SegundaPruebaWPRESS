@@ -20,7 +20,7 @@ CLAVE : 1234
 
 ![PruebaWordpress](imagenes/1.png)
 
-![ PruebaWordpress](imagenes/2.png)
+![PruebaWordpress](imagenes/2.png)
 
 ![PruebaWordpress](imagenes/3.png)
 

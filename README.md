@@ -18,18 +18,18 @@ CLAVE : 1234
 
  
 
-![PruebaWordpress](IMAGEN/1.jpg)
+![PruebaWordpress](imagenes/1.jpg)
 
-![ PruebaWordpress](IMAGEN/2.jpg)
+![ PruebaWordpress](imagenes/2.jpg)
 
-![PruebaWordpress](IMAGEN/3.jpg)
+![PruebaWordpress](imagenes/3.jpg)
 
-![PruebaWordpress](IMAGEN/4.jpg)
+![PruebaWordpress](imagenes/4.jpg)
 
-![PruebaWordpress](IMAGEN/5.jpg)
+![PruebaWordpress](imagenes/5.jpg)
 
-![PruebaWordpress](IMAGEN/6.jpg)
+![PruebaWordpress](imagenes/6.jpg)
 
-![PruebaWordpress](IMAGEN/7.jpg)
+![PruebaWordpress](imagenes/7.jpg)
 
 ![PruebaWordpress](IMAGEN/8.jpg)

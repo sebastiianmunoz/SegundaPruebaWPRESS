@@ -32,4 +32,4 @@ CLAVE : 1234
 
 ![PruebaWordpress](imagenes/7.png)
 
-![PruebaWordpress](IMAGEN/8.png)
+
